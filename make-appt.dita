@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bfn_qjs_qjb">
+    <title>Make an SWS.online appointment</title>
+    <shortdesc>Learn how to successfully make an SWS.online appointment.</shortdesc>
+    <taskbody>
+        <prereq>
+           To make an SWS.online appointment, you will need:
+           <ul>
+               <li>a UMN email account</li>
+               <li>DUO authentication</li>
+               <li>your class and work calendar for scheduling the online chat</li>
+               <li>a digital version of your document</li>
+               <li>your specific questions and concerns for the consultant to focus on</li>
+           </ul>
+        </prereq>
+        <context>
+            <p>SWS.online appointments can only be made through mySWS.com. </p>
+        </context>
+
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://c4w.cla.umn.edu/sws/index.php?page=MySWS_Home" format="html" scope="external">mySWS.</xref></cmd>
+            </step>
+            <step>
+                <cmd>From the menu at the top of the page, select Make an SWS.online Appointment.</cmd>
+            </step>
+            <step>
+                <cmd>Select a consultation time and date from the list of available consultation slots.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the name of the course you are writing for in the available box, or select Not For Credit. </cmd>
+            </step>
+            <step>
+                <cmd>Indicate research consent in the provided box.</cmd>
+            </step>
+            <step>
+                <cmd>Select Create Visit to finalize your appointment.</cmd>
+            </step>
+        </steps>
+        <postreq>Upload your document 3.5 to 1.5 hours before your consultation, then enter the consultation at the appointment time.</postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="submitting_your_document">
+    <title>Submit your Document</title>
+    <shortdesc>Learn how to submit your document using my.SWS.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You must submit your document between 1.5 to 3.5 hours before your scheduled appointment, depending on when you scheduled it. This allows the consultant to read and respond to your work.
+                You will recieve an email with information on what time you must submit it by and how to submit it using mySWS after scheduling your appointment.
+                </p>
+            <note>Your appointment will be cancelled if you do not submit your document before the required time. Our consultants are happy to work on outlines, brainstorming, and drafts at any stage, so submit whatever you have.</note>
+        </context>
+
+        <steps>
+            <step>
+                <cmd>Sign in to your UMN email.</cmd>
+            </step>
+            <step>
+                <cmd>Sign in to <xref href="http://writing.umn.edu/mysws" format="html" scope="external">mySWS.</xref></cmd>
+            </step>
+            <step>
+                <cmd>At the top of your mySWS page, click the Access My Visits tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the appointment you made.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll to the bottom of the page and select Go to Google Document.</cmd>
+            </step>
+            <step>
+                <cmd>Copy/paste your text into the document that opened in your mySWS window. </cmd>
+            </step>
+        </steps>
+        <postreq>
+            <ul>
+                <li><xref href="join-chat.dita" format="dita" scope="local">Check for consultant feedback</xref> 45 minutes before the appointment.</li>
+                 <li><xref href="join-chat.dita" format="dita" scope="local">Join the consultation</xref>at the appointment time.</li>
+            </ul>
+        </postreq>
+    </taskbody>
+    
+</task>
