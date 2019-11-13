@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="no_login">
+    <title>Cannot login to mySWS</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>You are unable to login to mySWS. The system will not accept your login information, or says that you are ineligible to login.</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>Your login information is incorrect</p>
+            </cause>
+            <remedy>
+                <title>Solution</title>
+                <steps>
+                    <step>
+                        <cmd>Check your login information and try again. Reset your UMN password if necessary.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>You are not using a University of Minnesota–Twin Cities gmail.umn.edu account.  
+                <note>Gopher Mail or non-UMN Twin Cities accounts will not work for logging in to mySWS.</note>
+                </p>           
+            </cause>
+            <remedy>
+                <title>Solution</title>
+                <steps>
+                    <step>
+                        <cmd>Log out of your non-UMN account.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Close your email and mySWS tabs.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Log in to your UMN email account.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Log back in to mySWS. </cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

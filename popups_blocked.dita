@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="popups_blocked">
+    <title>Chat, prompts, or new windows are not opening in mySWS</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p><ul><li>When you click a link in mySWS to go to chat, your document, or a new page, nothing happens.</li>
+               <li>You are not recieiving prompts or confirmation pop-up windows in mySWS.</li>
+               </ul>
+            </p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>You have prevented pop-ups or browser dialog windows from showing up.</p>
+            </cause>
+            <remedy>
+                <title>Solution</title>
+                <steps-unordered>
+                    <step>
+                        <cmd>Turn off your pop-up blocker in your browser's settings while using mySWS.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Turn off any ad blockers installed on your browser or computer while using mySWS.</cmd>
+                    </step>
+                </steps-unordered>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>
