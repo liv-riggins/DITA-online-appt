@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>SWS.online Appointments</mainbooktitle>
+    </booktitle>
+    <chapter href="sws_online_overview.dita">
+    </chapter>
+    <chapter href="online_appointment_instructions.dita">
+            <topicref href="make-appt.dita"/>
+            <topicref href="submitting_your_document.dita"/>
+            <topicref href="join-chat.dita"/>
+        </chapter>
+        
+    <chapter href="online_appointment_troubleshooting_0.dita">
+            <topicref href="mysws_not_opening.dita"/>
+            <topicref href="no_login.dita"/>
+            <topicref href="popups_blocked.dita"/>
+        </chapter>
+    </bookmap>
